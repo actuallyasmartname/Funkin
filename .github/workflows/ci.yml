@@ -1,7 +1,5 @@
 # credit to @regulad
-
-name: CI
-on: [pull_request, push],
+on: [pull_request, push]
 jobs:
   build:
     strategy:
